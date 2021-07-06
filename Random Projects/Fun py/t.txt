@@ -1,0 +1,10 @@
+{
+    _id : <ObjectId> ,
+    CustomerName : Jonas88,
+    Order: 
+            {
+                OrderID: 69
+                Product: Baked_Beans
+                Quantity: 600
+            }
+}
